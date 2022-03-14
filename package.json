@@ -1,0 +1,23 @@
+{
+  "name": "stream-service-api",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Brunnosama/stream-service-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Brunnosama/stream-service-api/issues"
+  },
+  "homepage": "https://gitlab.com/Brunnosama/stream-service-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
