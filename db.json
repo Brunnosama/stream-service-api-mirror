@@ -2,31 +2,48 @@
   "videos": [
     {
       "id": 1,
-      "name": "Movie 1",
-      "summary": "Here's a summary",
-      "video": "Here's a img link",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros convallis, congue justo ut, iaculis ex. Proin vel sollicitudin purus. Sed id blandit risus. In vitae ultricies nisi. Phasellus nibh orci, pellentesque sit amet molestie sed, condimentum id est. Pellentesque a iaculis est. Suspendisse potenti. Integer sed nisl laoreet, rhoncus ex eu, auctor tellus."
+      "title": "The Batman",
+      "releaseYear":"2022",      
+      "description":"When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+      "direction":"Matt Reeves", 
+      "img":"the_batman",
+      "genres": "Action, Crime, Drama, Mystery"
     },
     {
-      "name": "Movie 2",
-      "summary": "Here's a second summary",
-      "videoImage": "Here's a new Img link",
-      "description": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros convallis, congue justo ut, iaculis ex. Proin vel sollicitudin purus. Sed id blandit risus. In vitae ultricies nisi. Phasellus nibh orci, pellentesque sit amet molestie sed, condimentum id est. Pellentesque a iaculis est. Suspendisse potenti. Integer sed nisl laoreet, rhoncus ex eu, auctor tellus. 2",
+      "title":"Spider-Man: No Way Home",
+      "releaseYear":"2021",      
+      "description": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
+      "direction":"Jon Watts", 
+      "img":"spider_man_nwh",
+      "genres":"Action, Adventure,, Fantasy, Sci-Fi",
       "id": 2
     },
     {
-      "name": "Movie 3",
-      "summary": "Here's a third summary",
-      "videoImage": "Here's a new Img link",
-      "description": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros convallis, congue justo ut, iaculis ex. Proin vel sollicitudin purus. Sed id blandit risus. In vitae ultricies nisi. Phasellus nibh orci, pellentesque sit amet molestie sed, condimentum id est. Pellentesque a iaculis est. Suspendisse potenti. Integer sed nisl laoreet, rhoncus ex eu, auctor tellus. 3",
+      "title":"Uncharted",
+      "releaseYear":"2022",      
+      "description": "Street-smart Nathan Drake (Tom Holland) is recruited by seasoned treasure hunter Victor 'Sully' Sullivan (Mark Wahlberg) to recover a fortune amassed by Ferdinand Magellan and lost 500 years ago by the House of Moncada. What starts as a heist job for the duo becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada (Antonio Banderas), who believes he and his family are the rightful heirs. If Nate and Sully can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure and perhaps even Nate's long-lost brother...but only if they can learn to work together.",
+      "direction":"Ruben Fleischer", 
+      "img":"uncharted",
+      "genres":"Action, Adventure",
       "id": 3
     },
     {
-      "name": "Movie 4",
-      "summary": "Here's a forth summary",
-      "videoImage": "Here's a new Img link",
-      "description": "4 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at eros convallis, congue justo ut, iaculis ex. Proin vel sollicitudin purus. Sed id blandit risus. In vitae ultricies nisi. Phasellus nibh orci, pellentesque sit amet molestie sed, condimentum id est. Pellentesque a iaculis est. Suspendisse potenti. Integer sed nisl laoreet, rhoncus ex eu, auctor tellus. 4",
+      "title":"Death on the Nile",
+      "releaseYear":"2022",      
+      "description": "Belgian sleuth Hercule Poirot's vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short. Set against an epic landscape of sweeping Egyptian desert vistas and the majestic Giza pyramids, this tale of unbridled passion and incapacitating jealousy features a cosmopolitan group of impeccably dressed travelers, and enough wicked twists and turns to leave audiences guessing until the final, shocking denouement.",
+      "direction":"Kenneth Branagh", 
+      "img":"death_on_the_nile",
+      "genres":"Crime, Drama, Mystery",
       "id": 4
+    },
+    {
+      "title":"Sing 2",
+      "releaseYear":"2021",      
+      "description": "With his theatrical company a local success, Buster Moon is dreaming of bigger things. Unfortunately, when a talent scout dismisses their work as inadequate for the big time, Buster is driven to prove her wrong. With that goal in mind, Buster inspires his players to gamble everything to sneak into a talent audition in Redshore City for the demanding entertainment mogul Jimmy Crystal. Against the odds, they catch his interest with some frantic creative improvisation and even more desperate lies like personally knowing the reclusive rock star, Clay Calloway, who has not been seen in 15 years. Now faced with a tight production window with only a vague story idea and dire consequences for failure, Buster and his friends must all stretch their talents put on a show against all odds. In that struggle, the gang's challenges seem insurmountable, but each of them finds new inspirations and friends where they least expect them to pursue an artistic dream worthy of them.",
+      "direction":"Garth Jennings", 
+      "img":"sing_2",
+      "genres":"Animation, Adventure, Comedy, Family, Musical",
+      "id": 5
     }
   ],
   "favorites": [
