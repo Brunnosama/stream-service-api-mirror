@@ -4,7 +4,8 @@
   "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
+    "start": "json-server --watch db.json --p $PORT --host 0.0.0.0",
+    "start-pc": "json-server --watch db.json --p 3001"
   },
   "repository": {
     "type": "git",
