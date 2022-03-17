@@ -1,7 +1,7 @@
 heroku:
   only:
     - main
-    script:
-      - git checkout main
-      - git remote add heroku http://heroku:98f6f2a3-0eb9-4833-a3f5-aa073cbc9282@git.heroku.com/stream-service-api.git
-      - git push -f heroku main
+  script:
+    - git checkout main
+    - git remote add heroku https://heroku:98f6f2a3-0eb9-4833-a3f5-aa073cbc9282@git.heroku.com/stream-service-api.git
+    - git push -f heroku main
