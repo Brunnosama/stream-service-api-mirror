@@ -88,5 +88,24 @@
       "form": []
     },
     "tests": []
+  },
+  {
+    "_id": "145c31cf-46aa-412c-b8b6-b7ecf181f985",
+    "colId": "9c296a95-859d-41da-bcf4-7389fd3ba095",
+    "containerId": "",
+    "name": "Edit user",
+    "url": "http://localhost:3001/users/2",
+    "method": "PATCH",
+    "sortNum": 30000,
+    "created": "2022-07-24T16:13:01.135Z",
+    "modified": "2022-07-24T16:14:07.014Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n    \"type\": 1\n}",
+      "form": []
+    },
+    "tests": []
   }
 ]
