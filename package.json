@@ -4,8 +4,8 @@
   "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --p $PORT --host 0.0.0.0",
-    "start-pc": "json-server --watch db.json --p 3001"
+    "start": "json-server --watch db.json --p $PORT --host 0.0.0.0 -m ./node_modules/json-server-auth",
+    "start-pc": "json-server --watch db.json --p 3001 -m ./node_modules/json-server-auth"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://gitlab.com/Brunnosama/stream-service-api#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
   }
 }

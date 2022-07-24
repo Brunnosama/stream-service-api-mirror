@@ -83,5 +83,21 @@
       "videoId": 2,
       "id": 5
     }
+  ],
+  "users": [
+    {
+      "email": "client@assista.com",
+      "password": "$2a$10$PzpTOINn3xiVLGNvpO7Ct.JpB7G6JnmsAppESnrdDjjtFu/7NoThm",
+      "name": "Client",
+      "type": "2",
+      "id": 1
+    },
+    {
+      "email": "admin@assista.com",
+      "password": "$2a$10$p.KPvw0IRtE0qxqpDq2a2e807.VNE6Xi0vdFq53yue3dabqNgfqjO",
+      "name": "Admin",
+      "type": "1",
+      "id": 2
+    }
   ]
 }
