@@ -46,7 +46,7 @@
       "id": 5
     },
     {
-      "title": "Thor Love & Thunder ",
+      "title": "Thor Love & Thunder",
       "releaseYear": "2022",
       "description": "Mighty Thooor!",
       "direction": "Taika Waititi",
@@ -98,6 +98,13 @@
       "name": "Admin",
       "type": 1,
       "id": 2
+    },
+    {
+      "email": "brunno@assista.com",
+      "password": "$2a$10$Byn/5.X0Du7lWpqFWcL/Xex0Ioxrj6xZhTKpRMFb6XC8KY3k3x2pq",
+      "name": "Brunno",
+      "type": 2,
+      "id": 3
     }
   ]
 }
