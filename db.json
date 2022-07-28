@@ -55,39 +55,7 @@
       "id": 6
     }
   ],
-  "favorites": [
-    {
-      "name": "My Favs List",
-      "videoId": 1,
-      "id": 1
-    },
-    {
-      "listName": "",
-      "name": "Brunno",
-      "videoId": 1,
-      "id": 2
-    },
-    {
-      "listName": "",
-      "name": "Gary",
-      "videoId": 1,
-      "id": 3
-    },
-    {
-      "name": "Jenny",
-      "videoId": 1,
-      "id": 4
-    },
-    {
-      "name": "asf",
-      "videoId": 2,
-      "id": 5
-    },
-    {
-      "videoId": 2,
-      "id": 6
-    }
-  ],
+  "favorites": [],
   "users": [
     {
       "email": "client@assista.com",
