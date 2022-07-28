@@ -5,7 +5,7 @@
       "releaseYear": "2022",
       "description": "When The Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
       "direction": "Matt Reeves",
-      "img": "https://localhost:3001/assets/images/the_batman.jpg",
+      "img": "http://localhost:3001/the_batman.jpg",
       "genres": "Action, Crime, Drama, Mystery",
       "id": 1
     },
@@ -14,7 +14,7 @@
       "releaseYear": "2021",
       "description": "Peter Parker's secret identity is revealed to the entire world. Desperate for help, Peter turns to Doctor Strange to make the world forget that he is Spider-Man. The spell goes horribly wrong and shatters the multiverse, bringing in monstrous villains that could destroy the world.",
       "direction": "Jon Watts",
-      "img": "https://localhost:3001/assets/images/spider_man_nwh.jpg",
+      "img": "http://localhost:3001/spider_man_nwh.jpg",
       "genres": "Action, Adventure, Fantasy, Sci-Fi",
       "id": 2
     },
@@ -23,7 +23,7 @@
       "releaseYear": "2022",
       "description": "Street-smart Nathan Drake (played by Tom Holland) is recruited by seasoned treasure hunter Victor 'Sully' Sullivan (Mark Wahlberg) to recover a fortune amassed by Ferdinand Magellan and lost 500 years ago by the House of Moncada. What starts as a heist job for the duo becomes a globe-trotting, white-knuckle race to reach the prize before the ruthless Santiago Moncada (Antonio Banderas), who believes he and his family are the rightful heirs. If Nate and Sully can decipher the clues and solve one of the world's oldest mysteries, they stand to find $5 billion in treasure and perhaps even Nate's long-lost brother...but only if they can learn to work together.",
       "direction": "Ruben Fleischer",
-      "img": "https://localhost:3001/assets/images/uncharted.jpg",
+      "img": "http://localhost:3001/uncharted.jpg",
       "genres": "Action, Adventure",
       "id": 3
     },
@@ -32,7 +32,7 @@
       "releaseYear": "2022",
       "description": "Belgian sleuth Hercule Poirot's vacation aboard a glamorous river steamer turns into a terrifying search for a murderer when a picture-perfect couple's idyllic honeymoon is tragically cut short. Set against an epic landscape of sweeping Egyptian desert vistas and the majestic Giza pyramids, this tale of unbridled passion and incapacitating jealousy features a cosmopolitan group of impeccably dressed travelers, and enough wicked twists and turns to leave audiences guessing until the final, shocking denouement.",
       "direction": "Kenneth Branagh",
-      "img": "https://localhost:3001/assets/images/death_on_the_nile.jpg",
+      "img": "http://localhost:3001/death_on_the_nile.jpg",
       "genres": "Crime, Drama, Mystery",
       "id": 4
     },
@@ -41,7 +41,7 @@
       "releaseYear": "2021",
       "description": "With his theatrical company a local success, Buster Moon is dreaming of bigger things. Unfortunately, when a talent scout dismisses their work as inadequate for the big time, Buster is driven to prove her wrong. With that goal in mind, Buster inspires his players to gamble everything to sneak into a talent audition in Redshore City for the demanding entertainment mogul Jimmy Crystal. Against the odds, they catch his interest with some frantic creative improvisation and even more desperate lies like personally knowing the reclusive rock star, Clay Calloway, who has not been seen in 15 years. Now faced with a tight production window with only a vague story idea and dire consequences for failure, Buster and his friends must all stretch their talents put on a show against all odds. In that struggle, the gang's challenges seem insurmountable, but each of them finds new inspirations and friends where they least expect them to pursue an artistic dream worthy of them.",
       "direction": "Garth Jennings",
-      "img": "https://localhost:3001/assets/images/sing_2.jpg",
+      "img": "http://localhost:3001/sing_2.jpg",
       "genres": "Animation, Adventure, Comedy, Family, Musical",
       "id": 5
     },
@@ -50,7 +50,7 @@
       "releaseYear": "2022",
       "description": "Mighty Thooor!",
       "direction": "Taika Waititi",
-      "img": "https://localhost:3001/assets/images/thor_love_thunder.jpg",
+      "img": "http://localhost:3001/thor_love_thunder.jpg",
       "genres": "Action, Comedy, Drama",
       "id": 6
     }
